@@ -90,6 +90,11 @@ def adding_matz
    programmer_hash[:yukihiro_matsumoto] 
    programmer_hash[:yukihiro_matsumoto] <<  {:known_for => "Ruby"}
   programmer_hash[:yukihiro_matsumoto] << {:languages => ["LISP" , "C"]}
+  
+programmer_hash[:yukihiro_matsumoto] << [:grace_hopper]
+    programmer_hash[:yukihiro_matsumoto] << [:alan_kay]
+    programmer_hash[:yukihiro_matsumoto] << [:dennis_ritchie]
+    
     
     programmer_hash
    
