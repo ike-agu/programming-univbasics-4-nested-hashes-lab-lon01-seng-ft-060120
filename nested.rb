@@ -93,7 +93,7 @@ def adding_matz
     }
     
  
-    programmer_hash
+    #programmer_hash
    
 end
 
