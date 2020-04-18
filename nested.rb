@@ -92,8 +92,8 @@ def adding_matz
    programmer_hash = {:yukihiro_matsumoto => {}} 
    known = {:known_for => "Ruby"}
    language = {:languages => ["LISP" , "C"]}
-   programmer_hash[:yukihiro_matsumoto] << known
-  programmer_hash[:yukihiro_matsumoto] << language
+   programmer_hash[:yukihiro_matsumoto] < known
+  programmer_hash[:yukihiro_matsumoto] < language
   
 programmer_hash[:yukihiro_matsumoto] << [:grace_hopper][:alan_kay][:dennis_ritchie]
     
